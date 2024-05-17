@@ -5,6 +5,7 @@ import Terminal from "./components/terminal/page";
 export default function Home(): JSX.Element {
   const [fullscreen, setFullscreen] = useState<boolean>(false);
 
+
   //check if fullscreen is closed
   useEffect(() => {
     const exitHandler = () => {
@@ -28,7 +29,7 @@ export default function Home(): JSX.Element {
   return (
     <div>
       {fullscreen ? (
-        <div className="min-h-screen bg-black text-slate-50">
+        <div className="min-h-screen bg-black text-slate-50 p-2" >
          <Terminal/>
         </div>
       ) : (
