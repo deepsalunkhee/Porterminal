@@ -1,3 +1,4 @@
+'use client'
 import Typer from "react-natural-typing-effect";
 import Hacker from "../hacker/page";
 import React, { useState } from "react";

@@ -37,7 +37,7 @@ const Terminal = () => {
                         <Hacker />
                         <span className="text-yellow-400">
                             <Typer
-                                text="Mining Data about Deep Salunkhe.."
+                                text="Mining Data about Deep Salunkhe ..."
                                 customTypingOptions={{ ms: 50, pow: 1,mode:"blackGreenTerminal" }} // Slower speed with less variation
                             />
                         </span>
