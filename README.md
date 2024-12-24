@@ -1,3 +1,5 @@
+Note: One of the many portfolio website that I have built , while in learning phase now , I am going to ship a diff porfolio that I am planning to maintain for long time so I am archiving this repo, This is realy a good one in terms of creativity (atleat I think it is 😤) do check it out
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
